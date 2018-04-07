@@ -1,7 +1,7 @@
 # Subcranial-raindrops
 
 An Online Interactive Novel
-- Created in versions -
+{ Created in versions }
 
           By
 
